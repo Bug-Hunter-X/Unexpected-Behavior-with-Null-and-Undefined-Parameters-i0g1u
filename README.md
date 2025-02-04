@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving the incorrect handling of null and undefined values in function parameters. The function `foo` attempts to handle null values but fails to properly handle undefined values, leading to unexpected behavior. The solution demonstrates how to correctly handle both null and undefined values.
